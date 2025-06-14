@@ -1,0 +1,30 @@
+Quantum Computing: Kernel Estimation Approach
+
+Nielsen, M. A., & Chuang, I. L. (2010). Quantum Computation and Quantum Information. Cambridge University Press.
+The canonical introduction to quantum algorithms, circuit model, 
+and basic quantum information—the “bible” of the field.
+
+IBM Quantum Learning 
+https://learning.quantum.ibm.com/Qiskit Machine Learning Documentation
+Explains the basics of quantum computing, and how to use IBM Quantum services and systems https://qiskit.org/documentation/machine-learning/stable/
+to solve real-world problems.Covers the QuantumKernel class, built‐in feature maps (ZFeatureMap, ZZFeatureMap, PauliFeatureMap), 
+and end‐to‐end examples.
+
+Qiskit Textbook: Chapter on Quantum Machine Learning
+https://qiskit.org/textbook/ch-machine-learning/machine-learning-qiskit-pytorch.html
+Walks through kernel estimation, classification tasks, and integration with Scikit‐learn.
+Nielsen, M. A., & Chuang, I. L. (2010). Quantum Computation and Quantum Information. Cambridge University Press.
+The canonical introduction to quantum algorithms, circuit model, 
+and basic quantum information—the “bible” of the field.
+
+Qiskit Tutorials: Quantum Kernel Estimation
+https://github.com/Qiskit/qiskit-tutorials/tree/master/machine_learning/quantum_kernel
+Ready‐to‐run Jupyter notebooks illustrating how to compute kernels on both simulators and real hardware.
+
+Quantum Kernel SVM with Iris Dataset
+https://github.com/Qiskit/qiskit-tutorials/blob/master/machine_learning/quantum_kernel/quantum_kernel_svm.ipynb
+A minimal working example directly comparable to your project.
+
+Qiskit Machine Learning GitHub
+https://github.com/Qiskit/qiskit-machine-learning/tree/main/examples
+A collection of advanced examples, including quantum kernel SVMs.
