@@ -1,0 +1,12 @@
+https://you.stonybrook.edu/qcomputing/2018/07/18/2-3-qubit-grovers-algorithm/
+https://github.com/Qiskit/textbook/blob/main/notebooks/ch-algorithms/teleportation.ipynb
+https://github.com/Qiskit/textbook/blob/main/notebooks/ch-algorithms/superdense-coding.ipynb
+https://github.com/Qiskit/textbook/blob/main/notebooks/ch-algorithms/grover.ipynb
+https://www.quantum-inspire.com/kbase/rotation-operators/
+https://docs.google.com/presentation/d/11ZJtJq8SmUSrBRIGPv-YFk94LQHm26PKkYDZtBr3yVc/edit?slide=id.g3060fe93c59_0_0#slide=id.g3060fe93c59_0_0
+https://en.wikipedia.org/wiki/Grover%27s_algorithm
+https://en.wikipedia.org/wiki/Quantum_logic_gate
+https://www.sharetechnote.com/html/QC/QuantumComputing_Gate_X.html
+https://www.quantum-inspire.com/kbase/pauli-x/
+https://www.quantum-inspire.com/kbase/pauli-y/
+https://www.quantum-inspire.com/kbase/pauli-z/
